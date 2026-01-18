@@ -1,0 +1,24 @@
+# Site settings
+title: Your Blog Title
+author: Becky
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  A personal blog
+
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:day/:title
+paginate: 5
+
+# Tale theme settings (if using as remote theme)
+# remote_theme: chesterhow/tale
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
