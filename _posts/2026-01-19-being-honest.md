@@ -4,8 +4,8 @@ title: "In the Name of Being Honest"
 date: 2026-01-19
 ---
 
-<h1>The Truth, For Once</h1>
-<p>I hate writing.</p>
+<h1 style="color: #006400;">The Truth, For Once</h1>
+<p style="color: #006400;">I hate writing.</p>
 <p>
 When I was younger, I loved writing fantastical stories about defeating ridiculous villains, disturbing my wonderful third-grade teacher with the gory depictions I’d stolen from the Stephen King novels my mom let me check out from the library. I would fill marbled composition notebooks with magic and even let my classmates request heroic cameos before passing my writings along, sandwiched between their black-and-white cardboard covers. I wrote and wrote and wrote. I wrote whatever I could whenever I could, and I read my stories aloud to my classmates, recording the sound of their laughter in my brain to cherish later. I created worlds entirely built from slips of imagination, as untruthful as fantasy can be, and yet I find that those stories may be the last honest thing I have ever written.
 </p>
